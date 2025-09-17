@@ -16,3 +16,7 @@ jupyter
 joblib
 ipykernel
 imbalanced-learn
+adaboost
+lightgbm
+
+e.
