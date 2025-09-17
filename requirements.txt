@@ -1,4 +1,18 @@
 pandas
-seaborn
 numpy
--e .
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+xgboost
+lightgbm
+catboost
+shap
+optuna
+mlflow
+notebook
+jupyter
+joblib
+ipykernel
+imbalanced-learn
